@@ -1,8 +1,8 @@
-# Woocommerce Android Client (Unofficial )
+# WooCommerce Android Library (Unofficial)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-A beta Woocommerce Client for Android. Till now it has been very difficult to create Android Apps using Woocommerce as a backend. With the advent of the Woocommerce Rest API, the Woocommerce team has given the developers a quick and easy way to interact with the world's most popular ecommerce plugin for Wordpress. This library helps in easing things out even further. Don't take my word for it. Just take it for a spin and you will know. 
+A work-in-progress improved version of rajatady's Woocommerce Client for Android. Till now it has been very difficult to create Android Apps using WooCommerce as a backend. With the advent of the WooCommerce Rest API, the WooCommerce team has given the developers a quick and easy way to interact with the world's most popular e-commerce plugin for Wordpress. This library helps in easing things out even further. Don't take my word for it. Just take it for a spin and you will know. 
 
 # How To Use
 
